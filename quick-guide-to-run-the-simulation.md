@@ -1,4 +1,3 @@
-# Hossein Amiri | May 23, 2023
 
 # Step 1 (Run the simulation):
 
